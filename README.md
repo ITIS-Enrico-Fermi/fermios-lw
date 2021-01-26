@@ -45,3 +45,6 @@ Fonts:
 [tlp](https://github.com/linrunner/TLP)
 
 [cpufreq](https://github.com/konkor/cpufreq)
+
+### Bootloader
+[grub](https://www.gnu.org/software/grub/)
