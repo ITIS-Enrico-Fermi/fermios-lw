@@ -36,9 +36,12 @@ Fonts:
 
 ### Tiling window manager
 [i3](https://i3wm.org/)
+
 [picom](https://github.com/yshui/picom/tree/master)
 
 ### Power management
 [powertop](https://01.org/powertop/)
+
 [tlp](https://github.com/linrunner/TLP)
+
 [cpufreq](https://github.com/konkor/cpufreq)
