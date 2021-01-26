@@ -25,13 +25,14 @@
 
 ### Widget toolkit
 [gtk](https://www.gtk.org/)
+
 Theme: [akwa-dark](https://github.com/berkiyo/akwa)
 
 Icons: [adwaita](https://gitlab.gnome.org/GNOME/gtk/tree/master/gtk/theme/Adwaita)
 
 Fonts:
-	- [Roboto Condensed](https://fonts.google.com/specimen/Roboto+Condenseda) for GUI's text
-	- [Tamsyn](http://www.fial.com/~scott/tamsyn-font/) for terminal
+- [Roboto Condensed](https://fonts.google.com/specimen/Roboto+Condenseda) for GUI's text
+- [Tamsyn](http://www.fial.com/~scott/tamsyn-font/) for terminal
 
 ### Tiling window manager
 [i3](https://i3wm.org/)
