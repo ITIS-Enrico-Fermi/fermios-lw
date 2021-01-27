@@ -51,3 +51,7 @@ Fonts:
 
 ### Keymap
 `setxkbmap it`
+
+## References
+- https://docs.voidlinux.org/
+- https://wiki.voidlinux.org/Post_Installation
