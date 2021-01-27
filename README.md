@@ -66,6 +66,9 @@ Password: _fermi_
 ### Keymap
 `setxkbmap it`
 
+### Color palette
+[Nord](https://www.nordtheme.com/)
+
 ## References
 - https://docs.voidlinux.org/
 - https://wiki.voidlinux.org/Post_Installation
