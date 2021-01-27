@@ -35,7 +35,7 @@ Fonts:
 - [Tamsyn](http://www.fial.com/~scott/tamsyn-font/) for terminal
 
 ### Tiling window manager
-[i3](https://i3wm.org/)
+[i3-gaps](https://github.com/Airblader/i3)
 
 [picom](https://github.com/yshui/picom/tree/master)
 
@@ -48,6 +48,9 @@ Fonts:
 
 ### Bootloader
 [grub](https://www.gnu.org/software/grub/)
+
+### Display manger
+[lightdm](https://github.com/canonical/lightdm)
 
 ### Keymap
 `setxkbmap it`
