@@ -7,6 +7,10 @@
 
 ### Terminal emulator
 [urxvt](https://linux.die.net/man/1/urxvt)
+Shortcuts:
+- Alt+c --> copy text
+- Alt+p --> paste text
+- Alt-s --> search inside the terminal. Hit _n_ to go ahead
 
 ### Shell
 [zsh](https://www.zsh.org/)
