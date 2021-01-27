@@ -59,3 +59,4 @@ Fonts:
 - https://docs.voidlinux.org/
 - https://wiki.voidlinux.org/Post_Installation
 - https://wiki.archlinux.org/index.php/LightDM
+- https://wiki.archlinux.org/index.php/rxvt-unicode
