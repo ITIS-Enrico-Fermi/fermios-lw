@@ -7,6 +7,7 @@
 
 ### Terminal emulator
 [urxvt](https://linux.die.net/man/1/urxvt)
+
 Shortcuts:
 - Alt+c --> copy text
 - Alt+p --> paste text
@@ -55,6 +56,12 @@ Fonts:
 
 ### Display manger
 [lightdm](https://github.com/canonical/lightdm)
+
+Default user: _fermios-user_
+Password: _fermi_
+
+Root user: _root_
+Password: _fermi_
 
 ### Keymap
 `setxkbmap it`
