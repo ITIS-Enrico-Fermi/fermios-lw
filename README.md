@@ -58,3 +58,4 @@ Fonts:
 ## References
 - https://docs.voidlinux.org/
 - https://wiki.voidlinux.org/Post_Installation
+- https://wiki.archlinux.org/index.php/LightDM
