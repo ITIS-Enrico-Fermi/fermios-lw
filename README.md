@@ -48,3 +48,6 @@ Fonts:
 
 ### Bootloader
 [grub](https://www.gnu.org/software/grub/)
+
+### Keymap
+`setxkbmap it`
