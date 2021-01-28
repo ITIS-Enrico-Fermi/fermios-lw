@@ -76,6 +76,15 @@ Drivers installed using official [Void guide](https://wiki.voidlinux.org/Macbook
 In order to connect to WiFi you may want to use [Connman](https://wiki.archlinux.org/index.php/ConnMan#Wi-Fi)
 Automated configuration using scripts will be soon provided.
 
+## Toolset
+FermiOS is shipped with a pre-installed set of tools extremely useful for ICT students, along with 3 VMs (KVM virtualization).
+These VMs are carefully configured so that they take up a minimal amount of memory and other resources.
+
+- Nmap
+- sshd
+- pio-cli
+- miniterm
+
 ## References
 - https://docs.voidlinux.org/
 - https://wiki.voidlinux.org/Post_Installation
