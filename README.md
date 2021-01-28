@@ -69,6 +69,13 @@ Password: _fermi_
 ### Color palette
 [Nord](https://www.nordtheme.com/)
 
+## Drivers
+
+### Broadcom WiFi BCM43xx
+Drivers installed using official [Void guide](https://wiki.voidlinux.org/Macbook).
+In order to connect to WiFi you may want to use [Connman](https://wiki.archlinux.org/index.php/ConnMan#Wi-Fi)
+Automated configuration using scripts will be soon provided.
+
 ## References
 - https://docs.voidlinux.org/
 - https://wiki.voidlinux.org/Post_Installation
