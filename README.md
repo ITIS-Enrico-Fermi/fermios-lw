@@ -1,4 +1,4 @@
-# FermiOS
+# FermiOS Lightweight
 
 ## Specifications
 
