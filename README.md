@@ -1,4 +1,5 @@
 # FermiOS Lightweight
+The main purpose of this project is to bring back to life PCs made up of old pieces of hardware and turn them into the Swiss-Army knife of ICT students.
 
 ## Specifications
 
