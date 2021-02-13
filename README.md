@@ -1,5 +1,7 @@
 # FermiOS Lightweight
 The main purpose of this project is to bring back to life PCs made up of old pieces of hardware and turn them into the Swiss-Army knife of ICT students.
+We are also concerned about the environmental issues that our world is facing in the last few years, for that reason we made lowering computers' carbon footprint our secondary mission.
+By building a lightweight Linux distribution, perfectly suitable to the needs of the average sysadmin, we hope to spread the pleasure of minimal operating systems and sustainable computing.
 
 ## Specifications
 
